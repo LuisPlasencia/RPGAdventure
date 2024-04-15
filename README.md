@@ -3,6 +3,9 @@
 
 Unity 3.1.2 RPG game developed in 2021. <br>
 Isometric point and click project. <br>
+- Save system, loot and agroo.  <br>
+- Melee, ranged and magic weapons. <br>
+- Leveling system <br>
 
 Playable builds: https://drive.google.com/drive/folders/1P5UFeq8OkJ3CO4Yc-mkCND0z7C3fIW5W?usp=sharing
 
